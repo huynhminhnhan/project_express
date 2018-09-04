@@ -1,0 +1,14 @@
+{
+	"list" : {
+		"sanpham" : {
+			"tensp" : "BCS",
+			"price" : "20$",
+			"cap" : "Hang Viet Nam"
+		},
+		"Nhanvien" : {
+			"ten" : "Nhân",
+			"age" : "20",
+			"job" : "CNTT"
+		}	
+	}
+}
